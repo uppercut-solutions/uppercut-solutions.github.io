@@ -4,10 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
 const RESOURCES = {"version.json": "8a4d4495993477137ecfaf9f14149274",
-"index.html": "c565fde4133a8e48129f172861441a8c",
-"/": "c565fde4133a8e48129f172861441a8c",
-"main.dart.js": "e42e33b55b67fd7e1f7658c7f3ed3179",
-"Uppercut%20Brandbook-2.png": "27369c5f880156c2f7f6292f7608d1a1",
+"index.html": "4b33d8689683b3215642745dff97f302",
+"/": "4b33d8689683b3215642745dff97f302",
+"main.dart.js": "b0a9e572f6192c928a327ccdac7182ff",
 "flutter.js": "6fef97aeca90b426343ba6c5c9dc5d4a",
 "icons.zip": "286294a45d11a29cee7cecbb15ba82bb",
 "icons/Icon-192.png": "a4f9f5297dfe2bec520dc8223ae277bd",
